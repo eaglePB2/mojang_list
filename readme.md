@@ -1,4 +1,4 @@
-![school project status](https://github.com/eaglePB2/school_project/actions/workflows/static.yml/badge.svg)
+![school project status](https://github.com/eaglePB2/mojang_list/actions/workflows/static.yml/badge.svg)
 <hr>
 
 ### Hosted by:
